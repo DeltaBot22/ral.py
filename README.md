@@ -1,2 +1,2 @@
 # ral.py
-A simple Roblox AI Library
+A simple Roblox API Library
